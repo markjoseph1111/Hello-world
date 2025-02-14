@@ -1,15 +1,17 @@
 ## Table of contents
 - [Project Title](#Project-title)
+- [Description](#Description)
+- [Files Used](#Files-Used)
 
 
 ## Project Title
 
-- **Hello World**
+*Hello World*
 
 ## Description
 
-- This is my repository
+**This is my repository**
 
 ## Files Used
-- README.md
-- poli3426.xlsx
+1. README.md
+2. poli3426.xlsx
