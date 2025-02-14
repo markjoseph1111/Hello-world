@@ -1,7 +1,11 @@
-# Hello-world
-My first repository
-## First Heading
-### Second Heading
-**bold text** 
+## Project Title
 
-*italics*
+- **Hello World**
+
+## Description
+
+- This is my repository
+
+## Files Used
+- README.md
+- poli3426.xlsx
