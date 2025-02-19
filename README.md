@@ -11,7 +11,7 @@
 
 ## Description
 
-**This is my repository**
+**This is my repository. It contains one additional file besides the readme as well as a link to my LinkedIn page**
 
 ## Files Used
 1. README.md
@@ -21,4 +21,4 @@
 Attached in this section is a link to my [LinkedIn page](https://www.linkedin.com/in/mark-aaron-joseph/)
 
 ## Changelog
-2/19/25 - Attached LinkedIn page to readme
+2/19/25 - Attached LinkedIn page to readme, edited description
